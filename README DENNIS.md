@@ -1,6 +1,6 @@
 # Homework-1
 
-## Objective = Achieve profeesional standards of web accessibility, css and html semantics. 
+## Objective = Achieve profesional standards of web accessibility, css and html semantics. 
 
  Fixed title to read company name.  
 
@@ -10,4 +10,4 @@
  
  Removed all repetitive class and id css styles.
 
- Placed alt attribute and descriptions in all images.
+ Placed alt attribute with descriptions in all images.
